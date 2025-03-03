@@ -1,15 +1,8 @@
-Interactive Piano Lesson
+Project name: Piano Lesson.
 
-https://github.com/Lenka-88/Project-2---Interactive-Piano-Play.git
+Description: An interactive game with DOM events in JavaScript, which helps beginner-level piano students’ study. 
 
-
-Interactive Piano Lesson:
-
-An interactive game with DOM events in JavaScript, which helps beginner-level piano students’ study. 
-
-Comment: 
-There is plenty of notes within the main.js JavaScript making it very clear and organized, however please see below additional thought process summarizing the completed work. 
-There are no comments within HTML and CSS as the project is very simple in nature.
+Comment: There is plenty of notes within the main.js JavaScript making it very clear and organized, however please see below additional thought process summarizing the completed work. There are no comments within HTML and CSS as the project is very simple in nature.
 
 
 Explanation of the Process (main.js):
